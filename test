@@ -1,0 +1,6 @@
+#!/bin/bash
+
+sudo rm -rf /usr/share/themes/Mint-X
+sudo rm -rf /usr/share/themes/Mint-X-Metal
+sudo cp -R usr /
+gnome-appearance-properties -p theme
