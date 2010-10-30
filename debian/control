@@ -1,0 +1,15 @@
+Source: mint-x-theme
+Section: universe/gnome
+Priority: optional
+Maintainer: Clement Lefebvre <root@linuxmint.com>
+Build-Depends: debhelper (>= 5)
+Standards-Version: 3.7.2
+
+Package: mint-x-theme
+Replaces: mint-clearloox-theme
+Conflicts: mint-clearloox-theme
+Depends: mint-x-icons
+Architecture: all
+Description: Mint-X GTK themes
+ A mint/metal theme based on mintified versions of Clearlooks Revamp, Elementary and Faenza.
+
