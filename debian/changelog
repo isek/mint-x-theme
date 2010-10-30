@@ -1,3 +1,9 @@
+mint-x-theme (1.0.1) julia; urgency=low
+
+  * Changed window borders from 1px to 3px to make it easier to resize windows
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sat,  30 Oct 2010 10:55:00 +0000
+
 mint-x-theme (1.0.0) julia; urgency=low
 
   * Initial release
